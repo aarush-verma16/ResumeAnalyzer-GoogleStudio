@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer AI",
+  "description": "An AI-powered tool to analyze resumes against job descriptions, providing a match score, key strengths, and areas for improvement using Gemini.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
